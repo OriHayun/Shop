@@ -1,0 +1,16 @@
+.cartCard{
+    width: 5rem;
+    float: left;
+}
+.cartImg{
+    height: 80px;
+
+}
+.availableCard{
+    width: 14rem;
+    float: left;
+    height: 320px;
+}
+.availableImg{
+    height: 150px;
+}
