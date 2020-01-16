@@ -51,7 +51,7 @@ export default class CCShop extends Component {
             <div className="container">
                 <div className="row">
                     <div id="CCShop-header" className="col-12">
-                        <img id="logo" src="/images/Hayun'sLogo.jpg" />
+                        <img id="logo" src="./images/Hayun'sLogo.jpg" />
                         <h3>Welcome to Hayun's shop</h3><hr />
                     </div>
                 </div>
